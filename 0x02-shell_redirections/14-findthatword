@@ -1,2 +1,2 @@
 #!/bin/bash 
-grep -l "roots" /etc/passwd
+grep -1 "roots" /etc/passwd
